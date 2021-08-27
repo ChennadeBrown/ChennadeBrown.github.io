@@ -3,13 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+![](C:\Users\chenn\OneDrive\Documents\Photo1.png)
 
-Some information about you!
+# About Me
+I am in the Applied Statistics and Data Management Certificate Program at NC State. I decided to pursue the certificate to learn more about data management and analytics. I obtained by bachelors and MBA from East Carolina University and I currently work in the banking industry. 
 
-### More Information
+## More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am originally from Rowland, NC but moved to Raleigh for work shortly after graduating from ECU.  In my free time I enjoy reading, shopping, and traveling.  I look forward to doing more of these things in 2022 after completing the certificate program next spring.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cjbrow25@ncsu.edu](mailto:cjbrow25@ncsu.edu)
