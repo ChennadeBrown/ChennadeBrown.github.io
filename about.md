@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 ## ![Photo1](https://user-images.githubusercontent.com/89111504/131053681-a8a72796-898d-4d45-ae4b-c4c011de3f30.png)
