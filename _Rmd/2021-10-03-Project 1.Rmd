@@ -28,5 +28,5 @@ vignette. To remedy this I often combined data from different endpoints.
 If I had to do a similar project in the future I would make sure I was
 well versed on contacting APIs and creating functions to query APIs. I would
 also make sure I had adequate time to research the API and get familiar
-with it.  Here is the link to my github pages repo for the project [link] (https://github.com/ChennadeBrown/Project1-558) and here is the link to my usual repo [link] (https://github.com/ChennadeBrown/ChennadeBrown.github.io).
+with it.  Here is the link to my github page for the project [link] (https://chennadebrown.github.io/Project1-558/) and here is the link to my repo on github [link] (https://github.com/ChennadeBrown/Project1-558).
 
