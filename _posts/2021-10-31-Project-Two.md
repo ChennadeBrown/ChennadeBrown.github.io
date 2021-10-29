@@ -1,5 +1,5 @@
 
-Project 2 was a group project in which we analyzed the [online news
+Project Two was a group project in which we analyzed the [online news
 popularity data
 set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) and
 created predictive models to predict the number of shares for each news
