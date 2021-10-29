@@ -17,7 +17,7 @@ can and can’t do when pushing files up to github. So working with github
 and dealing with the anticipation that something could go wrong while
 working with github was the most difficult part of the project for me.
 
-The big takeaways from the project for me was learning how to use github
+The big takeaways from the project for me were learning how to use github
 to collaborate on a project. It was interesting to see how we could
 share code and document each others changes in github. After this
 experience I feel like I can use github to collaborate on similar
