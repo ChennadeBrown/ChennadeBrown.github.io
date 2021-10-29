@@ -1,7 +1,3 @@
-Project 2 - Predictive Modeling
-================
-Chennade Brown
-10/28/2021
 
 Project 2 was a group project in which we analyzed the [online news
 popularity data
