@@ -1,9 +1,4 @@
----
-title: "Project 2 - Predictive Modeling"
-author: "Chennade Brown"
-date: "10/28/2021"
-output: html_document
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
